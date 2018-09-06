@@ -34,3 +34,4 @@ install:
 
 clean:
 	rm *.o; rm *.so*; rm core*; rm testGeoJson
+
